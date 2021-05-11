@@ -1,0 +1,8 @@
+1. numpy , panda ,cv2 ,matplotlib
+
+2. Base map :
+	https://www.lfd.uci.edu/~gohlke/pythonlibs/#basemap
+	
+3. reverse_geocoder:
+	https://github.com/thampiman/reverse-geocoder/blob/master/README.md
+ 

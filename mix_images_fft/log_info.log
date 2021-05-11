@@ -1,0 +1,740 @@
+2020-03-26 21:30:25,765:INFO:add new image channel
+2020-03-26 21:30:25,766:INFO:open image 1
+2020-03-26 21:30:32,780:INFO:import image C:/Users/kimoo/Desktop/test.jpg 
+2020-03-26 21:30:32,784:INFO: get all data about image1
+2020-03-26 21:30:33,012:INFO:shape of this ssesio  is (500, 500, 2)
+2020-03-26 21:30:35,221:INFO:add new image channel
+2020-03-26 21:30:35,221:INFO:open image 2
+2020-03-26 21:30:40,593:INFO:import image C:/Users/kimoo/Desktop/test2.jpg 
+2020-03-26 21:30:40,596:INFO: get all data about image2
+2020-03-26 21:30:42,114:INFO:select image1 for component0
+2020-03-26 21:30:42,114:INFO:chose none for component0
+2020-03-26 21:30:42,114:INFO:select image2 for component0
+2020-03-26 21:30:42,114:INFO:chose none for component0
+2020-03-26 21:30:43,893:INFO:chose real for component0
+2020-03-26 21:30:43,895:INFO:chose real for component0
+2020-03-26 21:30:45,999:INFO:select image1 for component1
+2020-03-26 21:30:45,999:INFO:chose none for component1
+2020-03-26 21:30:46,000:INFO:select image2 for component1
+2020-03-26 21:30:46,001:INFO:chose none for component1
+2020-03-26 21:30:47,867:INFO:chose real for component1
+2020-03-26 21:30:47,867:INFO:chose real for component1
+2020-03-26 21:30:49,527:INFO:add new output channel
+2020-03-26 21:30:49,527:INFO:create output1
+2020-03-26 21:30:50,933:INFO:change output1
+2020-03-26 21:30:50,934:INFO:apply output1
+2020-03-26 21:30:53,167:INFO:select image1 for component2
+2020-03-26 21:30:53,167:INFO:chose none for component2
+2020-03-26 21:30:53,167:INFO:select image2 for component2
+2020-03-26 21:30:53,169:INFO:chose none for component2
+2020-03-26 21:30:53,169:INFO:change output1
+2020-03-26 21:30:53,170:INFO:apply output1
+2020-03-26 21:30:54,601:INFO:chose im for component2
+2020-03-26 21:30:54,602:INFO:chose im for component2
+2020-03-26 21:30:54,602:INFO:change output1
+2020-03-26 21:30:54,602:INFO:apply output1
+2020-03-26 21:30:56,087:INFO:select image1 for component3
+2020-03-26 21:30:56,087:INFO:chose none for component3
+2020-03-26 21:30:56,087:INFO:select image2 for component3
+2020-03-26 21:30:56,102:INFO:chose none for component3
+2020-03-26 21:30:56,102:INFO:change output1
+2020-03-26 21:30:56,102:INFO:apply output1
+2020-03-26 21:30:57,410:INFO:chose im for component3
+2020-03-26 21:30:57,411:INFO:chose im for component3
+2020-03-26 21:30:57,411:INFO:change output1
+2020-03-26 21:30:57,411:INFO:apply output1
+2020-03-26 21:30:59,558:INFO:change output1
+2020-03-26 21:30:59,558:INFO:apply output1
+2020-03-26 21:30:59,764:INFO:change output1
+2020-03-26 21:30:59,764:INFO:apply output1
+2020-03-26 21:31:00,024:INFO:change output1
+2020-03-26 21:31:00,025:INFO:apply output1
+2020-03-26 21:31:00,264:INFO:change output1
+2020-03-26 21:31:00,265:INFO:apply output1
+2020-03-26 21:31:00,540:INFO:change output1
+2020-03-26 21:31:00,540:INFO:apply output1
+2020-03-26 21:31:00,799:INFO:change output1
+2020-03-26 21:31:00,799:INFO:apply output1
+2020-03-26 21:31:01,016:INFO:change output1
+2020-03-26 21:31:01,016:INFO:apply output1
+2020-03-26 21:31:01,229:INFO:change output1
+2020-03-26 21:31:01,230:INFO:apply output1
+2020-03-26 21:31:01,460:INFO:change output1
+2020-03-26 21:31:01,461:INFO:apply output1
+2020-03-26 21:31:03,920:INFO:select image1 for component2
+2020-03-26 21:31:03,922:INFO:chose im for component2
+2020-03-26 21:31:03,922:INFO:select image2 for component2
+2020-03-26 21:31:03,923:INFO:chose im for component2
+2020-03-26 21:31:03,923:INFO:change output1
+2020-03-26 21:31:03,924:INFO:apply output1
+2020-03-26 21:31:05,281:INFO:change output1
+2020-03-26 21:31:05,281:INFO:apply output1
+2020-03-26 21:31:05,529:INFO:change output1
+2020-03-26 21:31:05,530:INFO:apply output1
+2020-03-26 21:31:05,811:INFO:change output1
+2020-03-26 21:31:05,811:INFO:apply output1
+2020-03-26 21:31:07,550:INFO:change output1
+2020-03-26 21:31:07,550:INFO:apply output1
+2020-03-26 21:31:07,784:INFO:change output1
+2020-03-26 21:31:07,784:INFO:apply output1
+2020-03-26 21:31:08,210:INFO:change output1
+2020-03-26 21:31:08,210:INFO:apply output1
+2020-03-26 21:31:08,434:INFO:change output1
+2020-03-26 21:31:08,435:INFO:apply output1
+2020-03-26 21:31:10,089:INFO:change output1
+2020-03-26 21:31:10,089:INFO:apply output1
+2020-03-26 21:31:10,309:INFO:change output1
+2020-03-26 21:31:10,310:INFO:apply output1
+2020-03-26 21:36:44,192:INFO:add new image channel
+2020-03-26 21:36:44,192:INFO:open image 1
+2020-03-26 21:36:48,389:INFO:import image C:/Users/kimoo/Desktop/cat.jpg 
+2020-03-26 21:36:48,392:INFO: get all data about image1
+2020-03-26 21:36:48,403:INFO:shape of this ssesio  is (159, 318, 2)
+2020-03-26 21:36:49,320:INFO:add new image channel
+2020-03-26 21:36:49,320:INFO:open image 2
+2020-03-26 21:36:53,766:INFO:import image C:/Users/kimoo/Desktop/dog.jpg 
+2020-03-26 21:36:53,770:INFO: get all data about image2
+2020-03-26 21:36:53,773:INFO:change shape of image2 to  (159, 318, 2)
+2020-03-26 21:36:58,399:INFO:chose real for component view
+2020-03-26 21:37:31,243:INFO:select image1 for component0
+2020-03-26 21:37:31,244:INFO:chose none for component0
+2020-03-26 21:37:31,244:INFO:select image2 for component0
+2020-03-26 21:37:31,244:INFO:chose none for component0
+2020-03-26 21:37:33,110:INFO:chose real for component0
+2020-03-26 21:37:33,112:INFO:chose real for component0
+2020-03-26 21:37:34,712:INFO:select image1 for component1
+2020-03-26 21:37:34,713:INFO:chose none for component1
+2020-03-26 21:37:34,714:INFO:select image2 for component1
+2020-03-26 21:37:34,714:INFO:chose none for component1
+2020-03-26 21:37:36,703:INFO:select image1 for component1
+2020-03-26 21:37:36,703:INFO:chose none for component1
+2020-03-26 21:37:36,704:INFO:select image2 for component1
+2020-03-26 21:37:36,705:INFO:chose none for component1
+2020-03-26 21:37:38,185:INFO:chose real for component1
+2020-03-26 21:37:38,185:INFO:chose real for component1
+2020-03-26 21:37:39,251:INFO:add new output channel
+2020-03-26 21:37:39,251:INFO:create output1
+2020-03-26 21:37:40,654:INFO:change output1
+2020-03-26 21:37:40,656:INFO:apply output1
+2020-03-26 21:37:42,046:INFO:change output1
+2020-03-26 21:37:42,046:INFO:apply output1
+2020-03-26 21:37:42,068:INFO:change output1
+2020-03-26 21:37:42,068:INFO:apply output1
+2020-03-26 21:37:42,092:INFO:change output1
+2020-03-26 21:37:42,092:INFO:apply output1
+2020-03-26 21:37:42,119:INFO:change output1
+2020-03-26 21:37:42,119:INFO:apply output1
+2020-03-26 21:37:42,141:INFO:change output1
+2020-03-26 21:37:42,141:INFO:apply output1
+2020-03-26 21:37:42,449:INFO:change output1
+2020-03-26 21:37:42,449:INFO:apply output1
+2020-03-26 21:37:42,473:INFO:change output1
+2020-03-26 21:37:42,473:INFO:apply output1
+2020-03-26 21:37:42,496:INFO:change output1
+2020-03-26 21:37:42,496:INFO:apply output1
+2020-03-26 21:37:42,518:INFO:change output1
+2020-03-26 21:37:42,518:INFO:apply output1
+2020-03-26 21:37:42,542:INFO:change output1
+2020-03-26 21:37:42,542:INFO:apply output1
+2020-03-26 21:37:42,565:INFO:change output1
+2020-03-26 21:37:42,565:INFO:apply output1
+2020-03-26 21:37:42,839:INFO:change output1
+2020-03-26 21:37:42,839:INFO:apply output1
+2020-03-26 21:37:42,860:INFO:change output1
+2020-03-26 21:37:42,860:INFO:apply output1
+2020-03-26 21:37:42,881:INFO:change output1
+2020-03-26 21:37:42,882:INFO:apply output1
+2020-03-26 21:37:42,906:INFO:change output1
+2020-03-26 21:37:42,906:INFO:apply output1
+2020-03-26 21:37:42,931:INFO:change output1
+2020-03-26 21:37:42,931:INFO:apply output1
+2020-03-26 21:37:42,953:INFO:change output1
+2020-03-26 21:37:42,953:INFO:apply output1
+2020-03-26 21:37:42,974:INFO:change output1
+2020-03-26 21:37:42,975:INFO:apply output1
+2020-03-26 21:37:42,999:INFO:change output1
+2020-03-26 21:37:43,000:INFO:apply output1
+2020-03-26 21:37:43,025:INFO:change output1
+2020-03-26 21:37:43,025:INFO:apply output1
+2020-03-26 21:37:43,047:INFO:change output1
+2020-03-26 21:37:43,047:INFO:apply output1
+2020-03-26 21:37:43,071:INFO:change output1
+2020-03-26 21:37:43,071:INFO:apply output1
+2020-03-26 21:38:21,935:INFO:add new image channel
+2020-03-26 21:38:21,935:INFO:open image 1
+2020-03-26 21:38:26,971:INFO:import image C:/Users/kimoo/Desktop/cat.jpg 
+2020-03-26 21:38:26,974:INFO: get all data about image1
+2020-03-26 21:38:26,977:INFO:shape of this ssesio  is (159, 318, 2)
+2020-03-26 21:38:27,766:INFO:add new image channel
+2020-03-26 21:38:27,766:INFO:open image 2
+2020-03-26 21:38:30,905:INFO:import image C:/Users/kimoo/Desktop/dog.jpg 
+2020-03-26 21:38:30,908:INFO: get all data about image2
+2020-03-26 21:38:30,911:INFO:change shape of image2 to  (159, 318, 2)
+2020-03-26 21:38:32,821:INFO:select image1 for component0
+2020-03-26 21:38:32,821:INFO:chose none for component0
+2020-03-26 21:38:32,822:INFO:select image2 for component0
+2020-03-26 21:38:32,822:INFO:chose none for component0
+2020-03-26 21:38:34,307:INFO:chose ampl for component0
+2020-03-26 21:38:34,308:INFO:chose ampl for component0
+2020-03-26 21:38:35,741:INFO:select image1 for component1
+2020-03-26 21:38:35,741:INFO:chose none for component1
+2020-03-26 21:38:35,742:INFO:select image2 for component1
+2020-03-26 21:38:35,743:INFO:chose none for component1
+2020-03-26 21:38:37,396:INFO:chose ampl for component1
+2020-03-26 21:38:37,396:INFO:chose ampl for component1
+2020-03-26 21:38:38,311:INFO:add new output channel
+2020-03-26 21:38:38,311:INFO:create output1
+2020-03-26 21:38:39,555:INFO:change output1
+2020-03-26 21:38:39,555:INFO:apply output1
+2020-03-26 21:38:41,968:INFO:select image1 for component2
+2020-03-26 21:38:41,969:INFO:chose none for component2
+2020-03-26 21:38:41,969:INFO:select image2 for component2
+2020-03-26 21:38:41,971:INFO:chose none for component2
+2020-03-26 21:38:41,971:INFO:change output1
+2020-03-26 21:38:41,971:INFO:apply output1
+2020-03-26 21:38:44,519:INFO:chose phase for component2
+2020-03-26 21:38:44,519:INFO:chose phase for component2
+2020-03-26 21:38:44,520:INFO:change output1
+2020-03-26 21:38:44,520:INFO:apply output1
+2020-03-26 21:38:45,901:INFO:select image1 for component2
+2020-03-26 21:38:45,903:INFO:chose phase for component2
+2020-03-26 21:38:45,903:INFO:select image2 for component2
+2020-03-26 21:38:45,903:INFO:chose phase for component2
+2020-03-26 21:38:45,903:INFO:change output1
+2020-03-26 21:38:45,903:INFO:apply output1
+2020-03-26 21:38:48,671:INFO:select image1 for component3
+2020-03-26 21:38:48,672:INFO:chose none for component3
+2020-03-26 21:38:48,672:INFO:select image2 for component3
+2020-03-26 21:38:48,674:INFO:chose none for component3
+2020-03-26 21:38:48,674:INFO:change output1
+2020-03-26 21:38:48,674:INFO:apply output1
+2020-03-26 21:38:51,161:INFO:chose phase for component3
+2020-03-26 21:38:51,162:INFO:chose phase for component3
+2020-03-26 21:38:51,162:INFO:change output1
+2020-03-26 21:38:51,162:INFO:apply output1
+2020-03-29 12:57:24,116:INFO:add new image channel
+2020-03-29 12:57:24,172:INFO:open image 1
+2020-03-29 12:57:48,328:INFO:import image C:/Users/kimoo/Desktop/sbe309-2020-task3-mohamedkamal77/imgsToTest/test.jpg 
+2020-03-29 12:57:48,331:INFO: get all data about image1
+2020-03-29 12:57:49,054:INFO:shape of this ssesio  is (500, 500, 2)
+2020-03-29 12:57:54,133:INFO:add new image channel
+2020-03-29 12:57:54,133:INFO:open image 2
+2020-03-29 12:57:59,562:INFO:import image  
+2020-03-29 12:57:59,568:INFO: get all data about image2
+2020-03-29 12:58:26,985:INFO:add new image channel
+2020-03-29 12:58:26,985:INFO:open image 1
+2020-03-29 12:58:35,579:INFO:import image C:/Users/kimoo/Desktop/sbe309-2020-task3-mohamedkamal77/imgsToTest/test.jpg 
+2020-03-29 12:58:35,586:INFO: get all data about image1
+2020-03-29 12:58:35,599:INFO:shape of this ssesio  is (500, 500, 2)
+2020-03-29 12:58:37,272:INFO:add new image channel
+2020-03-29 12:58:37,272:INFO:open image 2
+2020-03-29 12:58:45,469:INFO:import image C:/Users/kimoo/Desktop/sbe309-2020-task3-mohamedkamal77/imgsToTest/test2.jpg 
+2020-03-29 12:58:45,473:INFO: get all data about image2
+2020-03-29 12:58:49,737:INFO:chose real for component view
+2020-03-29 12:58:52,352:INFO:chose phase for component view
+2020-03-29 12:58:54,029:INFO:chose amplitude for component view
+2020-03-29 12:58:58,833:INFO:add new output channel
+2020-03-29 12:58:58,834:INFO:create output1
+2020-03-29 12:59:01,912:INFO:select image1 for component0
+2020-03-29 12:59:01,913:INFO:chose none for component0
+2020-03-29 12:59:01,913:INFO:select image2 for component0
+2020-03-29 12:59:01,913:INFO:chose none for component0
+2020-03-29 12:59:04,030:INFO:chose real for component0
+2020-03-29 12:59:04,031:INFO:chose real for component0
+2020-03-29 12:59:06,000:INFO:select image1 for component1
+2020-03-29 12:59:06,001:INFO:chose none for component1
+2020-03-29 12:59:06,001:INFO:select image2 for component1
+2020-03-29 12:59:06,003:INFO:chose none for component1
+2020-03-29 12:59:08,116:INFO:chose real for component1
+2020-03-29 12:59:08,117:INFO:chose real for component1
+2020-03-29 12:59:09,600:INFO:select image1 for component2
+2020-03-29 12:59:09,601:INFO:chose none for component2
+2020-03-29 12:59:09,601:INFO:select image2 for component2
+2020-03-29 12:59:09,602:INFO:chose none for component2
+2020-03-29 12:59:11,055:INFO:chose im for component2
+2020-03-29 12:59:11,056:INFO:chose im for component2
+2020-03-29 12:59:12,502:INFO:select image1 for component3
+2020-03-29 12:59:12,503:INFO:chose none for component3
+2020-03-29 12:59:12,503:INFO:select image2 for component3
+2020-03-29 12:59:12,505:INFO:chose none for component3
+2020-03-29 12:59:14,079:INFO:chose im for component3
+2020-03-29 12:59:14,079:INFO:chose im for component3
+2020-03-29 12:59:16,082:INFO:change output1
+2020-03-29 12:59:16,082:INFO:apply output1
+2020-03-29 12:59:17,536:INFO:change output1
+2020-03-29 12:59:17,537:INFO:apply output1
+2020-03-29 12:59:17,849:INFO:change output1
+2020-03-29 12:59:17,849:INFO:apply output1
+2020-03-29 12:59:18,164:INFO:change output1
+2020-03-29 12:59:18,165:INFO:apply output1
+2020-03-29 12:59:18,506:INFO:change output1
+2020-03-29 12:59:18,507:INFO:apply output1
+2020-03-29 12:59:19,032:INFO:change output1
+2020-03-29 12:59:19,032:INFO:apply output1
+2020-03-29 12:59:19,388:INFO:change output1
+2020-03-29 12:59:19,389:INFO:apply output1
+2020-03-29 12:59:19,673:INFO:change output1
+2020-03-29 12:59:19,674:INFO:apply output1
+2020-03-29 12:59:20,130:INFO:change output1
+2020-03-29 12:59:20,130:INFO:apply output1
+2020-03-29 12:59:20,626:INFO:change output1
+2020-03-29 12:59:20,627:INFO:apply output1
+2020-03-29 12:59:21,228:INFO:change output1
+2020-03-29 12:59:21,229:INFO:apply output1
+2020-03-29 12:59:24,301:INFO:change output1
+2020-03-29 12:59:24,301:INFO:apply output1
+2020-03-29 12:59:24,588:INFO:change output1
+2020-03-29 12:59:24,589:INFO:apply output1
+2020-03-29 12:59:27,407:INFO:change output1
+2020-03-29 12:59:27,407:INFO:apply output1
+2020-03-29 12:59:27,796:INFO:change output1
+2020-03-29 12:59:27,796:INFO:apply output1
+2020-03-29 12:59:32,657:INFO:change output1
+2020-03-29 12:59:32,658:INFO:apply output1
+2020-03-29 12:59:33,095:INFO:change output1
+2020-03-29 12:59:33,096:INFO:apply output1
+2020-03-29 12:59:35,564:INFO:change output1
+2020-03-29 12:59:35,564:INFO:apply output1
+2020-03-29 12:59:35,989:INFO:change output1
+2020-03-29 12:59:35,990:INFO:apply output1
+2020-03-29 12:59:37,569:INFO:change output1
+2020-03-29 12:59:37,569:INFO:apply output1
+2020-03-29 12:59:37,851:INFO:change output1
+2020-03-29 12:59:37,851:INFO:apply output1
+2020-03-29 12:59:38,571:INFO:change output1
+2020-03-29 12:59:38,571:INFO:apply output1
+2020-03-29 12:59:38,980:INFO:change output1
+2020-03-29 12:59:38,981:INFO:apply output1
+2020-03-29 12:59:39,278:INFO:change output1
+2020-03-29 12:59:39,278:INFO:apply output1
+2020-03-29 12:59:40,888:INFO:change output1
+2020-03-29 12:59:40,888:INFO:apply output1
+2020-03-29 12:59:41,211:INFO:change output1
+2020-03-29 12:59:41,211:INFO:apply output1
+2020-03-29 12:59:42,643:INFO:change output1
+2020-03-29 12:59:42,645:INFO:apply output1
+2020-03-29 12:59:42,997:INFO:change output1
+2020-03-29 12:59:42,997:INFO:apply output1
+2020-03-29 12:59:45,576:INFO:add new image channel
+2020-03-29 12:59:45,576:INFO:open image 3
+2020-03-29 12:59:52,829:INFO:import image C:/Users/kimoo/Desktop/sbe309-2020-task3-mohamedkamal77/imgsToTest/cat.jpg 
+2020-03-29 12:59:52,832:INFO: get all data about image3
+2020-03-29 12:59:52,850:INFO:change shape of image3 to  (500, 500, 2)
+2020-03-29 12:59:55,889:INFO:add new image channel
+2020-03-29 12:59:55,889:INFO:open image 4
+2020-03-29 13:00:05,252:INFO:import image C:/Users/kimoo/Desktop/sbe309-2020-task3-mohamedkamal77/imgsToTest/dog.jpg 
+2020-03-29 13:00:05,255:INFO: get all data about image4
+2020-03-29 13:00:05,309:INFO:change shape of image4 to  (500, 500, 2)
+2020-03-29 13:00:08,475:INFO:add new output channel
+2020-03-29 13:00:08,475:INFO:create output2
+2020-03-29 13:00:10,269:INFO:change output2
+2020-03-29 13:00:10,269:INFO:change output2
+2020-03-29 13:00:10,269:INFO:apply output2
+2020-03-29 13:00:14,794:INFO:select image1 for component0
+2020-03-29 13:00:14,795:INFO:chose real for component0
+2020-03-29 13:00:14,795:INFO:select image2 for component0
+2020-03-29 13:00:14,795:INFO:chose real for component0
+2020-03-29 13:00:14,796:INFO:change output2
+2020-03-29 13:00:14,796:INFO:select image3 for component0
+2020-03-29 13:00:14,802:INFO:chose real for component0
+2020-03-29 13:00:14,805:INFO:select image4 for component0
+2020-03-29 13:00:14,805:INFO:chose real for component0
+2020-03-29 13:00:14,806:INFO:change output2
+2020-03-29 13:00:14,806:INFO:apply output2
+2020-03-29 13:00:18,638:INFO:select image1 for component1
+2020-03-29 13:00:18,638:INFO:chose real for component1
+2020-03-29 13:00:18,638:INFO:select image2 for component1
+2020-03-29 13:00:18,639:INFO:chose real for component1
+2020-03-29 13:00:18,639:INFO:change output2
+2020-03-29 13:00:18,639:INFO:select image3 for component1
+2020-03-29 13:00:18,639:INFO:chose real for component1
+2020-03-29 13:00:18,639:INFO:select image4 for component1
+2020-03-29 13:00:18,640:INFO:chose real for component1
+2020-03-29 13:00:18,641:INFO:change output2
+2020-03-29 13:00:18,641:INFO:apply output2
+2020-03-29 13:00:21,294:INFO:select image1 for component2
+2020-03-29 13:00:21,295:INFO:chose im for component2
+2020-03-29 13:00:21,295:INFO:select image2 for component2
+2020-03-29 13:00:21,295:INFO:chose im for component2
+2020-03-29 13:00:21,296:INFO:change output2
+2020-03-29 13:00:21,296:INFO:select image3 for component2
+2020-03-29 13:00:21,298:INFO:chose im for component2
+2020-03-29 13:00:21,299:INFO:select image4 for component2
+2020-03-29 13:00:21,299:INFO:chose im for component2
+2020-03-29 13:00:21,300:INFO:change output2
+2020-03-29 13:00:21,300:INFO:apply output2
+2020-03-29 13:00:25,038:INFO:select image1 for component3
+2020-03-29 13:00:25,038:INFO:chose im for component3
+2020-03-29 13:00:25,038:INFO:select image2 for component3
+2020-03-29 13:00:25,039:INFO:chose im for component3
+2020-03-29 13:00:25,039:INFO:change output2
+2020-03-29 13:00:25,040:INFO:select image3 for component3
+2020-03-29 13:00:25,040:INFO:chose im for component3
+2020-03-29 13:00:25,040:INFO:select image4 for component3
+2020-03-29 13:00:25,042:INFO:chose im for component3
+2020-03-29 13:00:25,043:INFO:change output2
+2020-03-29 13:00:25,043:INFO:apply output2
+2020-03-29 13:00:31,319:INFO:change output2
+2020-03-29 13:00:31,319:INFO:change output2
+2020-03-29 13:00:31,320:INFO:apply output2
+2020-03-29 13:00:31,586:INFO:change output2
+2020-03-29 13:00:31,586:INFO:change output2
+2020-03-29 13:00:31,586:INFO:apply output2
+2020-03-29 13:00:32,444:INFO:change output2
+2020-03-29 13:00:32,445:INFO:change output2
+2020-03-29 13:00:32,445:INFO:apply output2
+2020-03-29 13:00:32,777:INFO:change output2
+2020-03-29 13:00:32,778:INFO:change output2
+2020-03-29 13:00:32,778:INFO:apply output2
+2020-03-29 13:00:33,040:INFO:change output2
+2020-03-29 13:00:33,040:INFO:change output2
+2020-03-29 13:00:33,041:INFO:apply output2
+2020-03-29 13:00:33,440:INFO:change output2
+2020-03-29 13:00:33,440:INFO:change output2
+2020-03-29 13:00:33,441:INFO:apply output2
+2020-03-29 13:00:33,738:INFO:change output2
+2020-03-29 13:00:33,738:INFO:change output2
+2020-03-29 13:00:33,738:INFO:apply output2
+2020-03-29 13:00:34,022:INFO:change output2
+2020-03-29 13:00:34,023:INFO:change output2
+2020-03-29 13:00:34,023:INFO:apply output2
+2020-03-29 13:00:34,294:INFO:change output2
+2020-03-29 13:00:34,294:INFO:change output2
+2020-03-29 13:00:34,295:INFO:apply output2
+2020-03-29 13:00:34,614:INFO:change output2
+2020-03-29 13:00:34,615:INFO:change output2
+2020-03-29 13:00:34,615:INFO:apply output2
+2020-03-29 13:00:34,892:INFO:change output2
+2020-03-29 13:00:34,893:INFO:change output2
+2020-03-29 13:00:34,893:INFO:apply output2
+2020-03-29 13:00:35,150:INFO:change output2
+2020-03-29 13:00:35,151:INFO:change output2
+2020-03-29 13:00:35,151:INFO:apply output2
+2020-03-29 13:00:37,061:INFO:change output2
+2020-03-29 13:00:37,062:INFO:change output2
+2020-03-29 13:00:37,062:INFO:apply output2
+2020-03-29 13:00:37,287:INFO:change output2
+2020-03-29 13:00:37,287:INFO:change output2
+2020-03-29 13:00:37,288:INFO:apply output2
+2020-03-29 13:00:37,519:INFO:change output2
+2020-03-29 13:00:37,519:INFO:change output2
+2020-03-29 13:00:37,520:INFO:apply output2
+2020-03-29 13:00:37,839:INFO:change output2
+2020-03-29 13:00:37,840:INFO:change output2
+2020-03-29 13:00:37,840:INFO:apply output2
+2020-03-29 13:00:40,319:INFO:change output2
+2020-03-29 13:00:40,319:INFO:change output2
+2020-03-29 13:00:40,319:INFO:apply output2
+2020-03-29 13:00:40,764:INFO:change output2
+2020-03-29 13:00:40,764:INFO:change output2
+2020-03-29 13:00:40,764:INFO:apply output2
+2020-03-29 13:00:43,339:INFO:change output2
+2020-03-29 13:00:43,340:INFO:change output2
+2020-03-29 13:00:43,340:INFO:apply output2
+2020-03-29 13:00:43,582:INFO:change output2
+2020-03-29 13:00:43,582:INFO:change output2
+2020-03-29 13:00:43,582:INFO:apply output2
+2020-03-29 13:00:46,429:INFO:change output2
+2020-03-29 13:00:46,429:INFO:change output2
+2020-03-29 13:00:46,429:INFO:apply output2
+2020-03-29 13:00:46,798:INFO:change output2
+2020-03-29 13:00:46,798:INFO:change output2
+2020-03-29 13:00:46,798:INFO:apply output2
+2020-03-29 13:00:50,191:INFO:change output2
+2020-03-29 13:00:50,191:INFO:change output2
+2020-03-29 13:00:50,191:INFO:apply output2
+2020-03-29 13:00:50,462:INFO:change output2
+2020-03-29 13:00:50,463:INFO:change output2
+2020-03-29 13:00:50,463:INFO:apply output2
+2020-03-29 13:00:53,690:INFO:change output2
+2020-03-29 13:00:53,691:INFO:change output2
+2020-03-29 13:00:53,692:INFO:apply output2
+2020-03-29 13:00:53,992:INFO:change output2
+2020-03-29 13:00:53,992:INFO:change output2
+2020-03-29 13:00:53,993:INFO:apply output2
+2020-03-29 13:00:56,804:INFO:change output2
+2020-03-29 13:00:56,804:INFO:change output2
+2020-03-29 13:00:56,804:INFO:apply output2
+2020-03-29 13:00:57,119:INFO:change output2
+2020-03-29 13:00:57,120:INFO:change output2
+2020-03-29 13:00:57,120:INFO:apply output2
+2020-03-29 13:00:58,922:INFO:change output2
+2020-03-29 13:00:58,922:INFO:change output2
+2020-03-29 13:00:58,923:INFO:apply output2
+2020-03-29 13:00:59,160:INFO:change output2
+2020-03-29 13:00:59,160:INFO:change output2
+2020-03-29 13:00:59,160:INFO:apply output2
+2020-03-29 13:01:01,152:INFO:change output2
+2020-03-29 13:01:01,152:INFO:change output2
+2020-03-29 13:01:01,152:INFO:apply output2
+2020-03-29 13:01:01,435:INFO:change output2
+2020-03-29 13:01:01,436:INFO:change output2
+2020-03-29 13:01:01,436:INFO:apply output2
+2020-03-29 13:01:07,101:INFO:click image1
+2020-03-29 13:01:07,102:INFO:click image1
+2020-03-29 13:01:16,475:INFO:import image C:/Users/kimoo/Desktop/sbe309-2020-task3-mohamedkamal77/imgsToTest/test.jpg 
+2020-03-29 13:01:16,478:INFO:open C:/Users/kimoo/Desktop/sbe309-2020-task3-mohamedkamal77/imgsToTest/test.jpg instead of current image 
+2020-03-29 13:01:16,478:INFO: get all data about image1
+2020-03-29 13:01:20,968:INFO:click image1
+2020-03-29 13:01:27,785:INFO:import image C:/Users/kimoo/Desktop/sbe309-2020-task3-mohamedkamal77/imgsToTest/dog.jpg 
+2020-03-29 13:01:27,789:INFO:open C:/Users/kimoo/Desktop/sbe309-2020-task3-mohamedkamal77/imgsToTest/dog.jpg instead of current image 
+2020-03-29 13:01:27,789:INFO: get all data about image1
+2020-03-29 13:01:27,793:INFO:change shape of image1 to  (500, 500, 2)
+2020-03-29 13:01:33,010:INFO:click image1
+2020-03-29 13:01:34,005:INFO:delete image1
+2020-03-29 13:01:34,989:INFO:click image2
+2020-03-29 13:01:35,945:INFO:delete image2
+2020-03-29 13:01:36,918:INFO:click image3
+2020-03-29 13:01:38,311:INFO:delete image3
+2020-03-29 13:01:41,326:INFO:delete output2 
+2020-03-29 13:01:59,435:INFO:save output2 at C:/Users/kimoo/Desktop/asd.png
+2020-03-29 20:04:46,436:INFO:add new image channel
+2020-03-29 20:04:46,862:INFO:open image 1
+2020-03-29 20:04:54,305:INFO:import image  
+2020-03-29 20:04:54,309:INFO: get all data about image1
+2020-03-29 20:05:42,136:INFO:add new image channel
+2020-03-29 20:05:42,137:INFO:open image 1
+2020-03-29 20:06:02,563:INFO:import image C:/Users/kimoo/Desktop/sbe309-2020-task3-mohamedkamal77/imgsToTest/test.jpg 
+2020-03-29 20:06:02,565:INFO: get all data about image1
+2020-03-29 20:06:04,801:INFO:shape of this ssesio  is (500, 500, 2)
+2020-03-29 20:16:05,666:INFO:add new image channel
+2020-03-29 20:16:05,734:INFO:open image 1
+2020-03-29 20:16:18,147:INFO:import image C:/Users/kimoo/Desktop/sbe309-2020-task3-mohamedkamal77/imgsToTest/test.jpg 
+2020-03-29 20:16:18,151:INFO: get all data about image1
+2020-03-29 20:16:18,427:INFO:shape of this ssesio  is (500, 500, 2)
+2020-03-29 20:16:22,247:INFO:add new image channel
+2020-03-29 20:16:22,248:INFO:open image 2
+2020-03-29 20:16:29,787:INFO:import image C:/Users/kimoo/Desktop/sbe309-2020-task3-mohamedkamal77/imgsToTest/test2.jpg 
+2020-03-29 20:16:29,791:INFO: get all data about image2
+2020-03-29 20:16:35,257:INFO:chose phase for component view
+2020-03-29 20:16:37,346:INFO:add new image channel
+2020-03-29 20:16:37,346:INFO:open image 3
+2020-03-29 20:16:44,554:INFO:import image C:/Users/kimoo/Desktop/sbe309-2020-task3-mohamedkamal77/imgsToTest/cat.jpg 
+2020-03-29 20:16:44,558:INFO: get all data about image3
+2020-03-29 20:16:44,562:INFO:change shape of image3 to  (500, 500, 2)
+2020-03-29 20:16:45,739:INFO:add new image channel
+2020-03-29 20:16:45,740:INFO:open image 4
+2020-03-29 20:16:52,777:INFO:import image C:/Users/kimoo/Desktop/sbe309-2020-task3-mohamedkamal77/imgsToTest/dog.jpg 
+2020-03-29 20:16:52,780:INFO: get all data about image4
+2020-03-29 20:16:52,785:INFO:change shape of image4 to  (500, 500, 2)
+2020-03-29 20:16:59,013:INFO:add new output channel
+2020-03-29 20:16:59,045:INFO:create output1
+2020-03-29 20:17:00,118:INFO:add new output channel
+2020-03-29 20:17:00,118:INFO:create output2
+2020-03-29 20:17:02,260:INFO:select image1 for component0
+2020-03-29 20:17:02,261:INFO:chose none for component0
+2020-03-29 20:17:02,261:INFO:select image2 for component0
+2020-03-29 20:17:02,262:INFO:chose none for component0
+2020-03-29 20:17:02,262:INFO:select image3 for component0
+2020-03-29 20:17:02,262:INFO:chose none for component0
+2020-03-29 20:17:02,262:INFO:select image4 for component0
+2020-03-29 20:17:02,263:INFO:chose none for component0
+2020-03-29 20:17:04,531:INFO:chose real for component0
+2020-03-29 20:17:04,596:INFO:chose real for component0
+2020-03-29 20:17:04,596:INFO:chose real for component0
+2020-03-29 20:17:04,597:INFO:chose real for component0
+2020-03-29 20:17:06,497:INFO:select image1 for component1
+2020-03-29 20:17:06,498:INFO:chose none for component1
+2020-03-29 20:17:06,498:INFO:select image2 for component1
+2020-03-29 20:17:06,499:INFO:chose none for component1
+2020-03-29 20:17:06,499:INFO:select image3 for component1
+2020-03-29 20:17:06,500:INFO:chose none for component1
+2020-03-29 20:17:06,500:INFO:select image4 for component1
+2020-03-29 20:17:06,500:INFO:chose none for component1
+2020-03-29 20:17:08,364:INFO:chose real for component1
+2020-03-29 20:17:08,364:INFO:chose real for component1
+2020-03-29 20:17:08,365:INFO:chose real for component1
+2020-03-29 20:17:08,365:INFO:chose real for component1
+2020-03-29 20:17:10,560:INFO:select image1 for component2
+2020-03-29 20:17:10,562:INFO:chose none for component2
+2020-03-29 20:17:10,562:INFO:select image2 for component2
+2020-03-29 20:17:10,562:INFO:chose none for component2
+2020-03-29 20:17:10,563:INFO:select image3 for component2
+2020-03-29 20:17:10,583:INFO:chose none for component2
+2020-03-29 20:17:10,583:INFO:select image4 for component2
+2020-03-29 20:17:10,584:INFO:chose none for component2
+2020-03-29 20:17:12,202:INFO:chose im for component2
+2020-03-29 20:17:12,203:INFO:chose im for component2
+2020-03-29 20:17:12,203:INFO:chose im for component2
+2020-03-29 20:17:12,203:INFO:chose im for component2
+2020-03-29 20:17:13,970:INFO:select image1 for component3
+2020-03-29 20:17:13,971:INFO:chose none for component3
+2020-03-29 20:17:13,972:INFO:select image2 for component3
+2020-03-29 20:17:13,972:INFO:chose none for component3
+2020-03-29 20:17:13,972:INFO:select image3 for component3
+2020-03-29 20:17:13,972:INFO:chose none for component3
+2020-03-29 20:17:13,972:INFO:select image4 for component3
+2020-03-29 20:17:13,973:INFO:chose none for component3
+2020-03-29 20:17:15,732:INFO:select image1 for component3
+2020-03-29 20:17:15,735:INFO:chose none for component3
+2020-03-29 20:17:15,736:INFO:select image2 for component3
+2020-03-29 20:17:15,736:INFO:chose none for component3
+2020-03-29 20:17:15,737:INFO:select image3 for component3
+2020-03-29 20:17:15,737:INFO:chose none for component3
+2020-03-29 20:17:15,738:INFO:select image4 for component3
+2020-03-29 20:17:15,738:INFO:chose none for component3
+2020-03-29 20:17:17,194:INFO:chose im for component3
+2020-03-29 20:17:17,195:INFO:chose im for component3
+2020-03-29 20:17:17,195:INFO:chose im for component3
+2020-03-29 20:17:17,195:INFO:chose im for component3
+2020-03-29 20:17:19,084:INFO:change output2
+2020-03-29 20:17:19,084:INFO:apply output2
+2020-03-29 20:17:19,764:INFO:change output2
+2020-03-29 20:17:23,228:INFO:change output2
+2020-03-29 20:17:23,228:INFO:apply output2
+2020-03-29 20:17:23,546:INFO:change output2
+2020-03-29 20:17:23,551:INFO:change output2
+2020-03-29 20:17:23,551:INFO:apply output2
+2020-03-29 20:17:23,830:INFO:change output2
+2020-03-29 20:17:23,837:INFO:change output2
+2020-03-29 20:17:23,837:INFO:apply output2
+2020-03-29 20:17:24,281:INFO:change output2
+2020-03-29 20:17:24,286:INFO:change output2
+2020-03-29 20:17:24,286:INFO:apply output2
+2020-03-29 20:17:24,875:INFO:change output2
+2020-03-29 20:17:25,480:INFO:change output2
+2020-03-29 20:17:25,481:INFO:apply output2
+2020-03-29 20:17:26,104:INFO:change output2
+2020-03-29 20:17:26,109:INFO:change output2
+2020-03-29 20:17:26,110:INFO:apply output2
+2020-03-29 20:17:26,720:INFO:change output2
+2020-03-29 20:17:27,911:INFO:change output2
+2020-03-29 20:17:27,911:INFO:apply output2
+2020-03-29 20:17:28,360:INFO:change output2
+2020-03-29 20:17:28,363:INFO:change output2
+2020-03-29 20:17:28,364:INFO:apply output2
+2020-03-29 20:17:29,259:INFO:change output2
+2020-03-29 20:17:31,595:INFO:change output2
+2020-03-29 20:17:31,596:INFO:apply output2
+2020-03-29 20:17:32,005:INFO:change output2
+2020-03-29 20:17:32,017:INFO:change output2
+2020-03-29 20:17:32,018:INFO:apply output2
+2020-03-29 20:17:32,533:INFO:change output2
+2020-03-29 20:17:32,540:INFO:change output2
+2020-03-29 20:17:32,541:INFO:apply output2
+2020-03-29 20:17:33,338:INFO:change output2
+2020-03-29 20:17:33,344:INFO:change output2
+2020-03-29 20:17:33,345:INFO:apply output2
+2020-03-29 20:17:33,727:INFO:change output2
+2020-03-29 20:17:33,733:INFO:change output2
+2020-03-29 20:17:33,733:INFO:apply output2
+2020-03-29 20:17:34,107:INFO:change output2
+2020-03-29 20:17:34,642:INFO:change output2
+2020-03-29 20:17:34,643:INFO:apply output2
+2020-03-29 20:17:34,983:INFO:change output2
+2020-03-29 20:17:34,991:INFO:change output2
+2020-03-29 20:17:34,991:INFO:apply output2
+2020-03-29 20:17:35,306:INFO:change output2
+2020-03-29 20:17:38,459:INFO:change output2
+2020-03-29 20:17:38,459:INFO:apply output2
+2020-03-29 20:17:38,902:INFO:change output2
+2020-03-29 20:17:38,937:INFO:change output2
+2020-03-29 20:17:38,937:INFO:apply output2
+2020-03-29 20:17:39,288:INFO:change output2
+2020-03-29 20:17:41,838:INFO:change output2
+2020-03-29 20:17:41,838:INFO:apply output2
+2020-03-29 20:17:42,209:INFO:change output2
+2020-03-29 20:17:42,216:INFO:change output2
+2020-03-29 20:17:42,217:INFO:apply output2
+2020-03-29 20:17:42,490:INFO:change output2
+2020-03-29 20:17:44,952:INFO:change output2
+2020-03-29 20:17:44,953:INFO:apply output2
+2020-03-29 20:17:45,268:INFO:change output2
+2020-03-29 20:17:45,273:INFO:change output2
+2020-03-29 20:17:45,274:INFO:apply output2
+2020-03-29 20:17:45,776:INFO:change output2
+2020-03-29 20:17:47,723:INFO:change output2
+2020-03-29 20:17:47,723:INFO:apply output2
+2020-03-29 20:17:48,157:INFO:change output2
+2020-03-29 20:17:48,191:INFO:change output2
+2020-03-29 20:17:48,192:INFO:apply output2
+2020-03-29 20:17:48,456:INFO:change output2
+2020-03-29 20:17:55,429:INFO:change output2
+2020-03-29 20:17:55,430:INFO:change output2
+2020-03-29 20:17:55,430:INFO:apply output2
+2020-03-29 20:17:59,258:INFO:select image1 for component0
+2020-03-29 20:17:59,259:INFO:chose real for component0
+2020-03-29 20:17:59,259:INFO:select image2 for component0
+2020-03-29 20:17:59,264:INFO:chose real for component0
+2020-03-29 20:17:59,265:INFO:select image3 for component0
+2020-03-29 20:17:59,265:INFO:chose real for component0
+2020-03-29 20:17:59,265:INFO:select image4 for component0
+2020-03-29 20:17:59,266:INFO:chose real for component0
+2020-03-29 20:17:59,266:INFO:change output2
+2020-03-29 20:17:59,267:INFO:change output2
+2020-03-29 20:17:59,267:INFO:apply output2
+2020-03-29 20:18:01,632:INFO:select image1 for component0
+2020-03-29 20:18:01,633:INFO:chose real for component0
+2020-03-29 20:18:01,633:INFO:select image2 for component0
+2020-03-29 20:18:01,633:INFO:chose real for component0
+2020-03-29 20:18:01,633:INFO:select image3 for component0
+2020-03-29 20:18:01,662:INFO:chose real for component0
+2020-03-29 20:18:01,663:INFO:select image4 for component0
+2020-03-29 20:18:01,663:INFO:chose real for component0
+2020-03-29 20:18:01,663:INFO:change output2
+2020-03-29 20:18:01,663:INFO:change output2
+2020-03-29 20:18:01,664:INFO:apply output2
+2020-03-29 20:18:03,953:INFO:select image1 for component2
+2020-03-29 20:18:03,954:INFO:chose im for component2
+2020-03-29 20:18:03,954:INFO:select image2 for component2
+2020-03-29 20:18:03,954:INFO:chose im for component2
+2020-03-29 20:18:03,954:INFO:select image3 for component2
+2020-03-29 20:18:03,955:INFO:chose im for component2
+2020-03-29 20:18:03,955:INFO:select image4 for component2
+2020-03-29 20:18:03,955:INFO:chose im for component2
+2020-03-29 20:18:03,956:INFO:change output2
+2020-03-29 20:18:03,956:INFO:change output2
+2020-03-29 20:18:03,956:INFO:apply output2
+2020-03-29 20:18:06,931:INFO:select image1 for component1
+2020-03-29 20:18:06,932:INFO:chose real for component1
+2020-03-29 20:18:06,932:INFO:select image2 for component1
+2020-03-29 20:18:06,932:INFO:chose real for component1
+2020-03-29 20:18:06,933:INFO:select image3 for component1
+2020-03-29 20:18:06,933:INFO:chose real for component1
+2020-03-29 20:18:06,934:INFO:select image4 for component1
+2020-03-29 20:18:06,937:INFO:chose real for component1
+2020-03-29 20:18:06,937:INFO:change output2
+2020-03-29 20:18:06,937:INFO:change output2
+2020-03-29 20:18:06,937:INFO:apply output2
+2020-03-29 20:18:09,723:INFO:select image1 for component3
+2020-03-29 20:18:09,724:INFO:chose im for component3
+2020-03-29 20:18:09,725:INFO:select image2 for component3
+2020-03-29 20:18:09,725:INFO:chose im for component3
+2020-03-29 20:18:09,726:INFO:select image3 for component3
+2020-03-29 20:18:09,727:INFO:chose im for component3
+2020-03-29 20:18:09,728:INFO:select image4 for component3
+2020-03-29 20:18:09,729:INFO:chose im for component3
+2020-03-29 20:18:09,730:INFO:change output2
+2020-03-29 20:18:09,730:INFO:change output2
+2020-03-29 20:18:09,730:INFO:apply output2
+2020-03-29 20:18:14,588:INFO:change output2
+2020-03-29 20:18:14,588:INFO:change output2
+2020-03-29 20:18:14,589:INFO:apply output2
+2020-03-29 20:18:14,953:INFO:change output2
+2020-03-29 20:18:14,953:INFO:change output2
+2020-03-29 20:18:14,953:INFO:apply output2
+2020-03-29 20:18:17,977:INFO:change output2
+2020-03-29 20:18:17,978:INFO:change output2
+2020-03-29 20:18:17,978:INFO:apply output2
+2020-03-29 20:18:18,244:INFO:change output2
+2020-03-29 20:18:18,244:INFO:change output2
+2020-03-29 20:18:18,245:INFO:apply output2
+2020-03-29 20:18:21,271:INFO:change output2
+2020-03-29 20:18:21,272:INFO:change output2
+2020-03-29 20:18:21,272:INFO:apply output2
+2020-03-29 20:18:21,498:INFO:change output2
+2020-03-29 20:18:21,498:INFO:change output2
+2020-03-29 20:18:21,499:INFO:apply output2
+2020-03-29 20:18:24,303:INFO:change output2
+2020-03-29 20:18:24,303:INFO:change output2
+2020-03-29 20:18:24,304:INFO:apply output2
+2020-03-29 20:18:24,548:INFO:change output2
+2020-03-29 20:18:24,548:INFO:change output2
+2020-03-29 20:18:24,549:INFO:apply output2
+2020-03-29 20:18:25,852:INFO:click image1
+2020-03-29 20:18:25,853:INFO:click image1
+2020-03-29 20:18:36,996:INFO:import image C:/Users/kimoo/Desktop/sbe309-2020-task3-mohamedkamal77/imgsToTest/cat.jpg 
+2020-03-29 20:18:36,999:INFO:open C:/Users/kimoo/Desktop/sbe309-2020-task3-mohamedkamal77/imgsToTest/cat.jpg instead of current image 
+2020-03-29 20:18:37,000:INFO: get all data about image1
+2020-03-29 20:18:37,003:INFO:change shape of image1 to  (500, 500, 2)
+2020-03-29 20:18:50,749:INFO:save output2 at C:/Users/kimoo/Desktop/asd.png
